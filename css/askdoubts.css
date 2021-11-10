@@ -178,6 +178,14 @@ body {
     padding: 20px
 }
 
+.input-group {
+    display: flex !important;
+}
+
+.input-group-text {
+    padding: 5px 5px;
+}
+
 .online,
 .offline,
 .me {
